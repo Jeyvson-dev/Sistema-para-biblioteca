@@ -1,0 +1,21 @@
+html{
+
+    min-height: 100%;
+    background-image: url(imagens/389873.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-align: center;
+
+}
+h1{
+
+    text-align: center;
+    color: #0dcaf0;
+
+}
+#header{
+
+    background-color: #212529;
+
+}
